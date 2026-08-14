@@ -2,9 +2,9 @@
 
 카이로소프트 스타일의 깊이와 재미를 담은 부동산 매매 및 임대 시뮬레이션 게임입니다. 건물을 사고, 임대하고, 팔아서 최고의 부동산 거물이 되세요!
 
-실행주소1 : https://sigco3111.github.io/real-estate-king/
+라이브 데모 : https://sigco3111.github.io/real-estate-king/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 
 ## 🌟 게임 플레이
